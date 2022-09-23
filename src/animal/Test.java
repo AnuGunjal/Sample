@@ -2,6 +2,6 @@ package animal;
 
 public class Test {
   
-  System.out.println("Test file added");
+ // System.out.println("Test file added");
 
 }
